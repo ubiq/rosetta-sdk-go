@@ -21,8 +21,8 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/coinbase/rosetta-sdk-go/constructor/job"
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/ubiq/rosetta-sdk-go/constructor/job"
+	"github.com/ubiq/rosetta-sdk-go/types"
 )
 
 var (

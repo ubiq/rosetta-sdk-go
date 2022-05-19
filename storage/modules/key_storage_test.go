@@ -21,9 +21,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/ubiq/go-ubiq/v7/common"
 
-	"github.com/coinbase/rosetta-sdk-go/keys"
-	"github.com/coinbase/rosetta-sdk-go/types"
-	"github.com/coinbase/rosetta-sdk-go/utils"
+	"github.com/ubiq/rosetta-sdk-go/keys"
+	"github.com/ubiq/rosetta-sdk-go/types"
+	"github.com/ubiq/rosetta-sdk-go/utils"
 )
 
 func hash(message string) []byte {

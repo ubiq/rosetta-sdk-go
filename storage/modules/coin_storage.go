@@ -23,11 +23,11 @@ import (
 
 	"github.com/neilotoole/errgroup"
 
-	"github.com/coinbase/rosetta-sdk-go/asserter"
-	"github.com/coinbase/rosetta-sdk-go/storage/database"
-	"github.com/coinbase/rosetta-sdk-go/storage/errors"
-	"github.com/coinbase/rosetta-sdk-go/types"
-	"github.com/coinbase/rosetta-sdk-go/utils"
+	"github.com/ubiq/rosetta-sdk-go/asserter"
+	"github.com/ubiq/rosetta-sdk-go/storage/database"
+	"github.com/ubiq/rosetta-sdk-go/storage/errors"
+	"github.com/ubiq/rosetta-sdk-go/types"
+	"github.com/ubiq/rosetta-sdk-go/utils"
 )
 
 const (

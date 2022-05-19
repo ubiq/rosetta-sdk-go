@@ -20,8 +20,8 @@ import (
 	zil_schnorr "github.com/Zilliqa/gozilliqa-sdk/schnorr"
 	"github.com/ubiq/go-ubiq/v7/crypto/secp256k1"
 
-	"github.com/coinbase/rosetta-sdk-go/asserter"
-	"github.com/coinbase/rosetta-sdk-go/types"
+	"github.com/ubiq/rosetta-sdk-go/asserter"
+	"github.com/ubiq/rosetta-sdk-go/types"
 )
 
 // SignerSecp256k1 is initialized from a keypair
